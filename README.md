@@ -8,7 +8,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">Desarrollador C++, C# .NET, ASP .NET, JAVA.</p>
+<p align="left">Desarrollador C++, C# .NET, JAVA.</p>
 
 - ✨ Estudiante por gusto.
 - 🌱 Actualmente aprendiendo Java.
