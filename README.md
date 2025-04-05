@@ -8,11 +8,11 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">Desarrollador C++, C# .NET, JAVA.</p>
+<p align="left">Desarrollador C++, C# .NET, JAVA, Javascript, React.</p>
 
 - ✨ Estudiante por gusto.
-- 🌱 Actualmente aprendiendo Java.
-- 🏙 4to cuatrimestre en la Tecnicatura Universitaria en Programacion UTN.
+- 🌱 Actualmente aprendiendo React.
+- 🏙 Cursando ultima materia en la Tecnicatura Universitaria en Programacion UTN.
 - 💁‍♂️ Ayudante de Catedra en Programacion 1.
 - ✍ Me gusta salir a trotar o caminar y ver series.
 - 💻 Mira mi [Portfolio](https://tomyok.github.io/Portfolio/)!
