@@ -12,8 +12,7 @@
 
 - ✨ Estudiante por gusto.
 - 🌱 Actualmente aprendiendo React.
-- 🏙 Cursando ultima materia en la Tecnicatura Universitaria en Programacion UTN.
-- 💁‍♂️ Ayudante de Catedra en Programacion 1.
+- 🏙 Tecnico en Programacion UTN.
 - ✍ Me gusta salir a trotar o caminar y ver series.
 - 💻 Mira mi [Portfolio](https://tomyok.github.io/Portfolio/)!
 <!--End Intro-->
