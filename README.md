@@ -11,7 +11,7 @@
 <p align="left">Desarrollador C++, C# .NET, JAVA, Javascript, React.</p>
 
 - ✨ Estudiante por gusto.
-- 🌱 Actualmente aprendiendo React.
+- 🌱 Actualmente aprendiendo .NET10.
 - 🏙 Tecnico en Programacion UTN.
 - ✍ Me gusta salir a trotar o caminar y ver series.
 - 💻 Mira mi [Portfolio](https://tomyok.github.io/Portfolio/)!
